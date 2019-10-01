@@ -6,4 +6,4 @@ Test for the difference in temperature in Honolulu, Hawaii between June and Dece
 	t-statistics is 31.355036920962423.
 	p-value is 4.193529835915756e-187.
   
-	Since p < 0.05, the difference in sample means is significant. In other words, there is a meaningful different in temperatures between summer and winter in Hawaii.
+	Since p < 0.05, the difference in sample means is significant. In other words, there is a meaningful difference in temperatures between summer and winter in Hawaii.
