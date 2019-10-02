@@ -19,7 +19,7 @@ from flask import Flask, jsonify
 # In[6]:
 
 
-database_path='C:\workspace\Resources\hawaii.sqlite'
+database_path='hawaii.sqlite'
 engine=create_engine(f'sqlite:///{database_path}')
 conn= engine.connect()
 Base.prepare(engine, reflect= True)
